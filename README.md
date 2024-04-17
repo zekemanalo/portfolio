@@ -2,7 +2,7 @@
 
 _Hi, I'm Zeke! I am driven and passionate about safeguarding people’s security, including their financial well-being. I enjoy working with technology and analyzing and solving complex problems._ <br>
 
-[LinkedIn](https://www.linkedin.com/in/ezekiel-manalo/) / [GitHub](https://github.com/zekemanalo)
+[LinkedIn](https://www.linkedin.com/in/ezekiel-manalo/) / [GitHub](https://github.com/zekemanalo) / [Projects](https://github.com/zekemanalo/redesigned-octo-broccoli)
 <br><br>
 
 ## 🧑‍💼 Work Experience
