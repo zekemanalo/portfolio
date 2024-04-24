@@ -39,6 +39,27 @@ Served as a Help Desk Tech at **Mastercard TechConnect** remotely
   - Remediated assigned tickets with an average response time of under two hours
 <br>
 
+## ☁️ Virtual internship / Job simulations
+
+**Security Analyst** @ [Datacom](https://www.theforage.com) _(April 2024)_ <br>
+Datacom Cybersecurity Job Simulation on Forage   
+  - Completed a job simulation focused on how Datacom's cybersecurity team helps protects it's clients​
+  - Investigated a cyberattack and produced a comprehensive report documenting findings and outlining key recommendations to improve a client's cybersecurity posture​
+  - Conducted a comprehensive risk assessment
+
+**Security Analyst** @ [JPMorgan Chase & Co.](https://www.theforage.com) _(April 2024)_ <br>
+JPMorgan Chase & Co. Cybersecurity Job Simulation on Forage
+  - Analyze a Large Dataset of Fraud in Financial Payment Services
+  - Learn About Application Security Fundamentals and Put it to Use on Your Own Website 
+  - Design and Develop a System to Tighten Access to Sensitive Information (Bonus Task)
+
+**Security Analyst** @ [Mastercard](https://www.theforage.com) _(April 2024)_ <br>
+Mastercard Cybersecurity virtual experience program intern on Forage 
+  - Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
+  - Helped identify and report security threats such as phishing 
+  - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams
+<br><br>
+
 ## 🎓📜🔑 Certifications
  - CompTIA Security+ _(March 2024 - March 2027)_
  - Google Cybersecurity _(October 2023 - February 2024)_
