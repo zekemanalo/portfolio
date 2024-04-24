@@ -22,7 +22,7 @@ Served as a Help Desk Tech at **Mastercard TechConnect** remotely
   - Employee Identity Access Management (Role-based access request)
   - Password reset, unlock and account creation using Active Directory
   - RSA and Microsoft Authenticator account creation and configuration
-  - Windows 10 or 11 & Mac support
+  - Windows 10 or 11 OS & Mac OS support
   - Monitored authentication logs using Splunk
   - **_Technologies used:_** Active Directory, VMware, Office 365, Citrix, Microsoft Azure, BOMGAR, Remedy, RSA, Microsoft Authenticator, Splunk, Global Protect, Palo Alto networks, Airwatch, Jamf, Remedy, Intune, Genesys
     
