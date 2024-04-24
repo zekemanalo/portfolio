@@ -7,13 +7,6 @@ _Hi, I'm Zeke! I am driven and passionate about safeguarding people’s security
 
 ## 🧑‍💼 Work Experience
 
-**Security Analyst** @ [Mastercard](https://www.theforage.com) _(April 2024)_ <br>
-Mastercard Cybersecurity virtual experience program intern on Forage 
-  - Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
-  - Helped identify and report security threats such as phishing 
-  - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams
-<br><br>
-
 **Fulfillment Center Associate - Seasonal** @ [Amazon](https://www.amazon.com/) _(November 2023 - January 2024)_ <br>
   - Gets orders ready for customers relying on Amazon services
   - Load boxes into trucks for shipment
