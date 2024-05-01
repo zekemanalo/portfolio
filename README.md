@@ -59,7 +59,6 @@ Mastercard Cybersecurity virtual experience program intern on Forage 
  - Security: Cryptography, Malware Analysis, VPN, IDS/IPS, Firewall
  - Hardware: Computers, laptops, printers, mobile devices
  - Software / Applications / Tools: MS Office Suite, Sharepoint, VMware, Citrix, Active Directory, SQL
-
 <br><br>
 
 ## 🎓📜🔑 Certifications
@@ -80,7 +79,7 @@ Mastercard Cybersecurity virtual experience program intern on Forage 
 **Boot camp** training of Network Administrator / Network Engineering - On site<br>
 [Nexus Cloud IT Solutions](https://www.facebook.com/nxs88/) - Pasig, Philippines _(Apr 2022 - May 2022)_
 
-**Bachelor of Science** in Computer Engineering (Undergraduate)<br>
+**Bachelor of Science** in Computer Engineering (Undergraduate - College Sophomore)<br>
 [FEU Institute of Technology](https://www.feutech.edu.ph/) - Manila, Philippines _(2018 - 2020)_
 
 **Senior High School** STEM<br>
