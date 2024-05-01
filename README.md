@@ -24,7 +24,7 @@ Served as a Help Desk Tech at **Mastercard TechConnect** remotely
   - RSA and Microsoft Authenticator account creation and configuration
   - Windows 10 or 11 OS & Mac OS support
   - Monitored authentication logs using Splunk
-  - **_Technologies used:_** Active Directory, VMware, Office 365, Citrix, Microsoft Azure, BOMGAR, Remedy, RSA, Microsoft Authenticator, Splunk, Global Protect, Palo Alto networks, Airwatch, Jamf, Remedy, Intune, Genesys
+  - **_Technologies used:_** Active Directory, VMware, Office 365, Citrix, Microsoft Azure, BOMGAR, Remedy, RSA, Microsoft Authenticator, Splunk, Global Protect, Palo Alto networks, Airwatch, Jamf, Remedy, Intune, Genesys, Carbon Black
     
 **Significant Achievements**:
   - Led the team in number of tickets completed in Quarter 1 and Quarter 2 of 2023​
@@ -51,6 +51,15 @@ Mastercard Cybersecurity virtual experience program intern on Forage 
   - Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
   - Helped identify and report security threats such as phishing 
   - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams
+<br><br>
+
+## ⚙️🛠️ Technical Skills
+ - Operating Systems: Windows 10 / 11, Mac, and Linux
+ - Network Technologies: OSI & TCP/IP Models, Network mapping, LAN/WAN, Wireless
+ - Security: Cryptography, Malware Analysis, VPN, IDS/IPS, Firewall
+ - Hardware: Computers, laptops, printers, mobile devices
+ - Software / Applications / Tools: MS Office Suite, Sharepoint, VMware, Citrix, Active Directory, SQL
+
 <br><br>
 
 ## 🎓📜🔑 Certifications
