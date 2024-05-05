@@ -9,7 +9,7 @@ _Hi, I'm Zeke! I am driven and passionate about safeguarding people’s security
 
 **Fulfillment Center Associate - Seasonal** @ [Amazon](https://www.amazon.com/) _(November 2023 - January 2024)_ <br>
   - Gets orders ready for customers relying on Amazon services
-  - Load boxes into trucks for shipment
+  - Loaded boxes into trucks for shipment
   - Ensured product meets quality requirements
 <br><br>
 
@@ -18,7 +18,6 @@ Served as a Help Desk Technician at **Mastercard TechConnect** remotely
   - Assisted Mastercard employees globally via calls, chat, and e-mail
   - Performed troubleshooting, diagnosis and repair of software for an average of 900 clients per month
   - Assessed client needs in order to provide relevant service solutions or ownership opportunities
-  - Ticket management
   - Maintained detailed ticket documentation for system troubleshoot and configurations​
   - Password reset, unlock and account creation using Active Directory
   - RSA and Microsoft Authenticator account creation and configuration
@@ -43,9 +42,9 @@ Datacom Cybersecurity Job Simulation on Forage
 
 **Security Analyst** @ [JPMorgan Chase & Co.](https://www.theforage.com) _(April 2024)_ <br>
 JPMorgan Chase & Co. Cybersecurity Job Simulation on Forage
-  - Analyze a Large Dataset of Fraud in Financial Payment Services
-  - Learn About Application Security Fundamentals and Put it to Use on Your Own Website 
-  - Design and Develop a System to Tighten Access to Sensitive Information (Bonus Task)
+  - Analyzed a Large Dataset of Fraud in Financial Payment Services
+  - Learned About Application Security Fundamentals and Put it to Use on Your Own Website 
+  - Designed and Develop a System to Tighten Access to Sensitive Information (Bonus Task)
 
 **Security Analyst** @ [Mastercard](https://www.theforage.com) _(April 2024)_ <br>
 Mastercard Cybersecurity virtual experience program intern on Forage 
@@ -56,10 +55,10 @@ Mastercard Cybersecurity virtual experience program intern on Forage 
 
 ## ⚙️🛠️ Technical Skills
  - Operating Systems: Windows 10 / 11, Mac, and Linux
- - Network Technologies: OSI & TCP/IP Models, Network mapping, basic Switch and Router configuration
+ - Network Technologies: OSI & TCP/IP Models, Network mapping
  - Security: Cryptography, Malware Analysis, VPN, IDS/IPS, Security Audit
  - Hardware: Desktop and laptop assembly/disassembly, printers, mobile devices
- - Software Tools: Microsoft 365, Sharepoint, VMware, Citrix, Active Directory, basic SQL and Splunk queries, PuTTy
+ - Software Tools: Microsoft 365, Sharepoint, VMware, Citrix, Active Directory, basic SQL and Splunk queries, basic PuTTy Switch and Router configuration
 <br><br>
 
 ## 🎓📜🔑 Certifications
