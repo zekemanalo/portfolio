@@ -64,7 +64,7 @@ Mastercard Cybersecurity virtual experience program intern on Forage 
 
 ## 🎓📜🔑 Certifications
 
- - AWS Cloud Technical Essentialas _(April 2024 - May 2024)_
+ - AWS Cloud Technical Essentials _(April 2024 - May 2024)_
  - CompTIA Security+ _(March 2024 - March 2027)_
  - Google Cybersecurity _(October 2023 - February 2024)_
  - MTA: Introduction to Programming using Python _(July 2020)_
