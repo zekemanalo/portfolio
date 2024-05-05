@@ -55,7 +55,7 @@ Mastercard Cybersecurity virtual experience program intern on Forage 
 
 ## ⚙️🛠️ Technical Skills
  - Operating Systems: Windows 10 / 11, Mac, and Linux
- - Network Technologies: OSI & TCP/IP Models, Network mapping
+ - Network Technologies: OSI & TCP/IP Models, Network mapping, basic Switch and Router configuration
  - Security: Cryptography, Malware Analysis, VPN, IDS/IPS, Security Audit
  - Hardware: Desktop and laptop assembly/disassembly, printers, mobile devices
  - Software Tools: Microsoft 365, Sharepoint, VMware, Citrix, Active Directory, basic SQL and Splunk queries, PuTTy
@@ -72,11 +72,10 @@ Mastercard Cybersecurity virtual experience program intern on Forage 
 **self-paced learning** focused on AWS Fundamentals Specialization<br>
 [AWS Cloud Technical Essentials](https://www.coursera.org/specializations/aws-fundamentals) - New York, United States _(Apr 2024 - May 2024)_
 
-
 **6-months of self-paced learning** focused on Cybersecurity Professional Certificate<br>
 [Google Cybersecurity](https://www.coursera.org/programs/eightfold-pliic/professional-certificates/google-cybersecurity?authProvider=nyslabor) - New York, United States _(Oct 2023 - Feb 2024)_ <br>
 
-**Boot camp** training of Network Administrator / Network Engineering - On site<br>
+**Boot camp** Hands on training of Network Administrator / Network Engineering - On site<br>
 [Nexus Cloud IT Solutions](https://www.facebook.com/nxs88/) - Pasig, Philippines _(Apr 2022 - May 2022)_
 
 **Bachelor of Science** in Computer Engineering (Undergraduate - College Sophomore)<br>
