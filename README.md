@@ -55,10 +55,10 @@ Mastercard Cybersecurity virtual experience program intern on Forage 
 
 ## ⚙️🛠️ Technical Skills
  - Operating Systems: Windows 10 / 11, Mac, and Linux
- - Network Technologies: OSI & TCP/IP Models, Network mapping, LAN/WAN, Wireless
- - Security: Cryptography, Malware Analysis, VPN, IDS/IPS, Firewall
- - Hardware: Computers, laptops, printers, mobile devices
- - Software / Applications / Tools: MS Office Suite, Sharepoint, VMware, Citrix, Active Directory, SQL
+ - Network Technologies: OSI & TCP/IP Models, Network mapping
+ - Security: Cryptography, Malware Analysis, VPN, IDS/IPS, Security Audit
+ - Hardware: Desktop and laptop assembly/disassembly, printers, mobile devices
+ - Software Tools: Microsoft 365, Sharepoint, VMware, Citrix, Active Directory, basic SQL and Splunk queries, PuTTy
 <br><br>
 
 ## 🎓📜🔑 Certifications
@@ -70,7 +70,7 @@ Mastercard Cybersecurity virtual experience program intern on Forage 
 ## 👨‍🎓 Education
 
 **self-paced learning** focused on AWS Fundamentals Specialization<br>
-[AWS Cloud Technical Essentials](https://www.coursera.org/specializations/aws-fundamentals) - New York, United States _(Apr 2024 - Present)_
+[AWS Cloud Technical Essentials](https://www.coursera.org/specializations/aws-fundamentals) - New York, United States _(Apr 2024 - May 2024)_
 
 
 **6-months of self-paced learning** focused on Cybersecurity Professional Certificate<br>
