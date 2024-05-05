@@ -19,7 +19,7 @@ Served as a Help Desk Technician at **Mastercard TechConnect** remotely
   - Performed troubleshooting, diagnosis and repair of software for an average of 900 clients per month
   - Assessed client needs in order to provide relevant service solutions or ownership opportunities
   - Ticket management
-  - Maintained detailed documentation for system troubleshoot and configurations​
+  - Maintained detailed ticket documentation for system troubleshoot and configurations​
   - Password reset, unlock and account creation using Active Directory
   - RSA and Microsoft Authenticator account creation and configuration
   - Windows 10/11 OS & Mac OS support
@@ -30,6 +30,7 @@ Served as a Help Desk Technician at **Mastercard TechConnect** remotely
   - Led the team in the number of tickets completed in Quarter 1 and Quarter 2 of 2023​
   - Recognized as one of the Top Performing Help Desk Technicians for providing consistent technical/customer support and training, leading to a 90% client satisfaction rating
   - Remediated assigned tickets with an average response time of under two hours
+  - Managed a team of 20 newly hired employees for calls, chat and e-mail shadowing and ticket handling
 <br>
 
 ## ☁️ Virtual internship / Job simulations
@@ -78,7 +79,7 @@ Mastercard Cybersecurity virtual experience program intern on Forage 
 [Google Cybersecurity](https://www.coursera.org/programs/eightfold-pliic/professional-certificates/google-cybersecurity?authProvider=nyslabor) - New York, United States _(Oct 2023 - Feb 2024)_ <br>
 
 **Boot camp** Hands on training of Network Administrator / Network Engineering - On site<br>
-[Nexus Cloud IT Solutions](https://www.facebook.com/nxs88/) - Pasig, Philippines _(Apr 2022 - May 2022)_
+[Nexus Cloud IT Solutions](https://www.facebook.com/nxs88/) - Pasig, Philippines _(April 2022 - May 2022)_
 
 **Bachelor of Science** in Computer Engineering (Undergraduate - College Sophomore)<br>
 [FEU Institute of Technology](https://www.feutech.edu.ph/) - Manila, Philippines _(2018 - 2020)_
