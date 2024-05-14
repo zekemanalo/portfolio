@@ -5,7 +5,22 @@ _Hi, I'm Zeke! I am driven and passionate about safeguarding people’s security
 [LinkedIn](https://www.linkedin.com/in/ezekiel-manalo/) / [GitHub](https://github.com/zekemanalo) / [Projects](https://github.com/zekemanalo/redesigned-octo-broccoli)
 <br><br>
 
-## 🧑‍💼 Work Experience
+## ⚙️🛠️ Technical Skills
+ - Software / Applications / Tools: Microsoft 365, SharePoint, VMware, Citrix, Active Directory, basic SQL and Splunk queries, basic Powershell scripting, basic PuTTy Switch and Router configuration, Linux Bash Shell commands
+ - Hardware: Desktop and laptop assembly/disassembly & repairs, printers, mobile devices
+ - Security: Cryptography, Malware Analysis, Security Audit
+ - Network Technologies: OSI & TCP/IP Models, Network mapping
+ - Operating Systems: Windows 10/11, Mac and Linux
+<br><br>
+
+## 🧑‍💼 Experience
+
+**Security Analyst | Self-taught**  _(05/2024)_ <br>
+Performed the following tasks for Azure Sentinel:
+  - Developed and implemented a custom PowerShell script to extract metadata from Windows Event Viewer, forwarding data to a third-party API for geolocation insights.
+  - Configured an Azure Log Analytics Workspace, enabling the ingestion and processing of 1000+ custom logs containing geographic data (Latitude, Longitude, State/Province, and Country).
+  - Enhanced Azure Sentinel functionality by configuring custom fields in Log Analytics Workspace and creating a dynamic workbook displaying global attack data (e.g., RDP Brute Force) on a world map, visualizing attack locations.
+<br><br>
 
 **Fulfillment Center Associate - Seasonal** @ [Amazon](https://www.amazon.com/) _(November 2023 - January 2024)_ <br>
   - Gets orders ready for customers relying on Amazon services
@@ -53,13 +68,6 @@ Mastercard Cybersecurity virtual experience program intern on Forage 
   - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams
 <br><br>
 
-## ⚙️🛠️ Technical Skills
- - Operating Systems: Windows 10 / 11, Mac, and Linux
- - Network Technologies: OSI & TCP/IP Models, Network mapping
- - Security: Cryptography, Malware Analysis, VPN, IDS/IPS, Security Audit
- - Hardware: Desktop and laptop assembly/disassembly, printers, mobile devices
- - Software Tools: Microsoft 365, Sharepoint, VMware, Citrix, Active Directory, basic SQL and Splunk queries, basic PuTTy Switch and Router configuration
-<br><br>
 
 ## 🎓📜🔑 Certifications
 
