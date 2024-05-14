@@ -49,22 +49,22 @@ Served as a Help Desk Technician at **Mastercard TechConnect** remotely
 
 ## ☁️ Virtual internship / Job simulations
 
-**Security Analyst** @ [DATACOM](https://github.com/zekemanalo/phishing/blob/main/Task%202%20Risk%20Assessment.pdf) _(April 2024)_ <br>
+**Security Analyst** @ [DATACOM](https://datacom.com/nz/en) _(April 2024)_ <br>
 DATACOM Cybersecurity Job Simulation on Forage   
   - Utilized various Open-Source Intelligence (OSINT) tools and techniques to gather information on APT34 and apply MITRE ATT&CK Framework. [APT34 Task](https://github.com/zekemanalo/phishing/blob/main/APT34_Task.pdf)
   - Conducted a comprehensive risk assessment, helped define the context, assess rist matrix and identify potential risk scenarios. [Risk Assessment](https://github.com/zekemanalo/phishing/blob/main/Task%202%20Risk%20Assessment.pdf)
 
-**Security Analyst** @ [JPMorgan Chase & Co.](https://www.theforage.com) _(April 2024)_ <br>
+**Security Analyst** @ [JPMorgan Chase & Co.](https://www.jpmorgan.com/global) _(April 2024)_ <br>
 JPMorgan Chase & Co. Cybersecurity Job Simulation on Forage
   - Analyzed a Large Dataset of Fraud in Financial Payment Services
   - Learned About Application Security Fundamentals and Put it to Use on Your Own Website 
   - Designed and Develop a System to Tighten Access to Sensitive Information (Bonus Task)
 
-**Security Analyst** @ [Mastercard](https://github.com/zekemanalo/phishing/blob/main/Prevent%20phishing.pdf) _(April 2024)_ <br>
+**Security Analyst** @ [Mastercard](https://www.mastercard.us/en-us.html) _(April 2024)_ <br>
 Mastercard Cybersecurity virtual experience program intern on Forage 
   - Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
-  - Helped identify and report security threats such as phishing 
-  - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams 
+  - Helped identify and report security threats such as phishing.
+  - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams. [Phishing Presentation](https://github.com/zekemanalo/phishing/blob/main/Prevent%20phishing.pdf)
 <br><br>
 
 
