@@ -54,12 +54,6 @@ DATACOM Cybersecurity Job Simulation on Forage
   - Utilized various Open-Source Intelligence (OSINT) tools and techniques to gather information on APT34 and apply MITRE ATT&CK Framework. [APT34 Task](https://github.com/zekemanalo/phishing/blob/main/APT34_Task.pdf)
   - Conducted a comprehensive risk assessment, helped define the context, assess rist matrix and identify potential risk scenarios. [Risk Assessment](https://github.com/zekemanalo/phishing/blob/main/Task%202%20Risk%20Assessment.pdf)
 
-**Security Analyst** @ [JPMorgan Chase & Co.](https://www.jpmorgan.com/global) _(April 2024)_ <br>
-JPMorgan Chase & Co. Cybersecurity Job Simulation on Forage
-  - [Task 1](https://github.com/zekemanalo/phishing/blob/main/task1_completejpmorgan.ipynb): Analyzed a Large Dataset of Fraud in Financial Payment Services
-  - Learned About Application Security Fundamentals and Put it to Use on Your Own Website 
-  - Designed and Develop a System to Tighten Access to Sensitive Information (Bonus Task)
-
 **Security Analyst** @ [Mastercard](https://www.mastercard.us/en-us.html) _(April 2024)_ <br>
 Mastercard Cybersecurity virtual experience program intern on Forage 
   - Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
