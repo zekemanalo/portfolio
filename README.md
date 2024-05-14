@@ -50,9 +50,9 @@ Served as a Help Desk Technician at **Mastercard TechConnect** remotely
 ## ☁️ Virtual internship / Job simulations
 
 **Security Analyst** @ [DATACOM](https://github.com/zekemanalo/phishing/blob/main/Task%202%20Risk%20Assessment.pdf) _(April 2024)_ <br>
-Datacom Cybersecurity Job Simulation on Forage   
+DATACOM Cybersecurity Job Simulation on Forage   
   - Utilized various Open-Source Intelligence (OSINT) tools and techniques to gather information on APT34 and apply MITRE ATT&CK Framework. [APT34 Task](https://github.com/zekemanalo/phishing/blob/main/APT34_Task.pdf)
-  - Conducted a comprehensive risk assessment
+  - Conducted a comprehensive risk assessment, helped define the context, assess rist matrix and identify potential risk scenarios. [Risk Assessment](https://github.com/zekemanalo/phishing/blob/main/Task%202%20Risk%20Assessment.pdf)
 
 **Security Analyst** @ [JPMorgan Chase & Co.](https://www.theforage.com) _(April 2024)_ <br>
 JPMorgan Chase & Co. Cybersecurity Job Simulation on Forage
