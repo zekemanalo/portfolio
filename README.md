@@ -49,10 +49,9 @@ Served as a Help Desk Technician at **Mastercard TechConnect** remotely
 
 ## ☁️ Virtual internship / Job simulations
 
-**Security Analyst** @ [Datacom](https://www.theforage.com) _(April 2024)_ <br>
+**Security Analyst** @ [DATACOM](https://github.com/zekemanalo/phishing/blob/main/Task%202%20Risk%20Assessment.pdf) _(April 2024)_ <br>
 Datacom Cybersecurity Job Simulation on Forage   
-  - Completed a job simulation focused on how Datacom's cybersecurity team helps protects it's clients​
-  - Investigated a cyberattack and produced a comprehensive report documenting findings and outlining key recommendations to improve a client's cybersecurity posture​
+  - Investigated a cyberattack such as APT42 and produced a comprehensive report documenting findings and outlining key recommendations to improve a client's cybersecurity posture​
   - Conducted a comprehensive risk assessment
 
 **Security Analyst** @ [JPMorgan Chase & Co.](https://www.theforage.com) _(April 2024)_ <br>
@@ -61,11 +60,11 @@ JPMorgan Chase & Co. Cybersecurity Job Simulation on Forage
   - Learned About Application Security Fundamentals and Put it to Use on Your Own Website 
   - Designed and Develop a System to Tighten Access to Sensitive Information (Bonus Task)
 
-**Security Analyst** @ [Mastercard](https://www.theforage.com) _(April 2024)_ <br>
+**Security Analyst** @ [Mastercard](https://github.com/zekemanalo/phishing/blob/main/Prevent%20phishing.pdf) _(April 2024)_ <br>
 Mastercard Cybersecurity virtual experience program intern on Forage 
   - Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
   - Helped identify and report security threats such as phishing 
-  - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams
+  - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams 
 <br><br>
 
 
