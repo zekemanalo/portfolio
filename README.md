@@ -30,10 +30,8 @@ Performed the following tasks for Azure Sentinel:
 Served as a Help Desk Technician at **Mastercard TechConnect** remotely
   - Consistently resolved software issues for 900+ clients each month, maintaining a two-hour turnaround time for Help Desk tickets.
   - Assessed client needs in order to provide relevant service solutions or ownership opportunities
-  - Maintained detailed ticket documentation for system troubleshoot and configurations​
-  - Password reset, unlock and account creation using Active Directory
-  - RSA and Microsoft Authenticator account creation and configuration
-  - Monitored authentication logs using Splunk for suspicious login activity
+  - Maintained detailed ticket documentation and follow-up for system troubleshoot and configurations​.
+  - Demonstrated exceptional customer service experience within a fast-paced environment, utilizing technical skills and problem-solving abilities, and specialize knowledge to educate workforce.
   - **_Technologies used:_** Active Directory, VMware, Office 365, Citrix, Microsoft Azure Active Directory, BOMGAR, Remedy, RSA, Microsoft Authenticator, Splunk, Global Protect, Palo Alto networks, Airwatch, Jamf, Remedy, Intune, Genesys, Carbon Black, TOAD for Oracle
     
 **Significant Achievements**:
