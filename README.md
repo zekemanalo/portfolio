@@ -28,20 +28,16 @@ Performed the following tasks for Azure Sentinel:
 
 **IT Help Desk Technician I - Full Time** @ [Stefanini Group](https://stefanini.com/en) _(June 2022 - August 2023)_ <br>
 Served as a Help Desk Technician at **Mastercard TechConnect** remotely
-  - Assisted Mastercard employees globally via calls, chat, and e-mail
-  - Performed troubleshooting, diagnosis and repair of software for an average of 900 clients per month
+  - Consistently resolved software issues for 900+ clients each month, maintaining a two-hour turnaround time for Help Desk tickets.
   - Assessed client needs in order to provide relevant service solutions or ownership opportunities
   - Maintained detailed ticket documentation for system troubleshoot and configurations​
   - Password reset, unlock and account creation using Active Directory
   - RSA and Microsoft Authenticator account creation and configuration
-  - Windows 10/11 OS & Mac OS support
   - Monitored authentication logs using Splunk for suspicious login activity
   - **_Technologies used:_** Active Directory, VMware, Office 365, Citrix, Microsoft Azure Active Directory, BOMGAR, Remedy, RSA, Microsoft Authenticator, Splunk, Global Protect, Palo Alto networks, Airwatch, Jamf, Remedy, Intune, Genesys, Carbon Black, TOAD for Oracle
     
 **Significant Achievements**:
-  - Led the team in the number of tickets completed in Quarter 1 and Quarter 2 of 2023​
-  - Recognized as one of the Top Performing Help Desk Technicians for providing consistent technical/customer support and training, leading to a 90% client satisfaction rating
-  - Remediated assigned tickets with an average response time of under two hours
+  - Ranked as [Top 3 Performer](https://github.com/zekemanalo/phishing/blob/main/IMG_0871.jpg) Help Desk Technician, achieving exceptional scores in Shareholder Value (4.25), Client Value (4.05), and Employee Value (4.25), with a Final Score of 4.19
   - Managed a team of 20 newly hired employees for calls, chat and e-mail shadowing and ticket handling
 <br>
 
