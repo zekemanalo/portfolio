@@ -23,9 +23,7 @@ Performed the following tasks for Azure Sentinel:
 <br><br>
 
 **Fulfillment Center Associate - Seasonal** @ [Amazon](https://www.amazon.com/) _(November 2023 - January 2024)_ <br>
-  - Gets orders ready for customers relying on Amazon services
-  - Loaded boxes into trucks for shipment
-  - Ensured product meets quality requirements
+  - Processed and prepared an average of 200+ orders weekly for shipment, consistently meeting and maintaining stringent product quality standards.
 <br><br>
 
 **IT Help Desk Technician I - Full Time** @ [Stefanini Group](https://stefanini.com/en) _(June 2022 - August 2023)_ <br>
