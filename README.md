@@ -15,7 +15,7 @@ _Hi, I'm Zeke! I am driven and passionate about safeguarding people’s security
 
 ## 🧑‍💼 Experience
 
-**Security Analyst | Self-taught** [Honeypot](https://github.com/zekemanalo/honeypot/blob/main/HONEYPOT%20EXPERIMENT.pdf) _(05/2024)_ <br>
+**Security Analyst | Self-taught** @ [Honeypot](https://github.com/zekemanalo/honeypot/blob/main/HONEYPOT%20EXPERIMENT.pdf) _(05/2024)_ <br>
 Performed the following tasks for Azure Sentinel:
   - Developed and implemented a custom PowerShell script to extract metadata from Windows Event Viewer, forwarding data to a third-party API for geolocation insights.
   - Configured an Azure Log Analytics Workspace, enabling the ingestion and processing of 1000+ custom logs containing geographic data (Latitude, Longitude, State/Province, and Country).
