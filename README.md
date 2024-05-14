@@ -56,7 +56,7 @@ DATACOM Cybersecurity Job Simulation on Forage
 
 **Security Analyst** @ [JPMorgan Chase & Co.](https://www.jpmorgan.com/global) _(April 2024)_ <br>
 JPMorgan Chase & Co. Cybersecurity Job Simulation on Forage
-  - Analyzed a Large Dataset of Fraud in Financial Payment Services
+  - [Task 1](https://github.com/zekemanalo/phishing/blob/main/task1_completejpmorgan.ipynb): Analyzed a Large Dataset of Fraud in Financial Payment Services
   - Learned About Application Security Fundamentals and Put it to Use on Your Own Website 
   - Designed and Develop a System to Tighten Access to Sensitive Information (Bonus Task)
 
