@@ -74,7 +74,7 @@ Mastercard Cybersecurity virtual experience program intern on Forage 
 **Boot camp** Hands on training of Network Administrator / Network Engineering - On site<br>
 [Nexus Cloud IT Solutions](https://www.facebook.com/nxs88/) - Pasig, Philippines _(April 2022 - May 2022)_
 
-**Bachelor of Science** in Computer Engineering (Undergraduate - College Sophomore)<br>
+**Bachelor of Science** in Computer Engineering<br>
 [FEU Institute of Technology](https://www.feutech.edu.ph/) - Manila, Philippines _(2018 - 2020)_
 
 **Senior High School** STEM<br>
