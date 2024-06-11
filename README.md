@@ -15,13 +15,6 @@ _Hi, I'm Zeke! I am driven and passionate about safeguarding people’s security
 
 ## 🧑‍💼 Experience
 
-**Security Analyst | Self-taught** [Honeypot](https://github.com/zekemanalo/honeypot/blob/main/HONEYPOT%20EXPERIMENT.pdf) _(05/2024)_ <br>
-Performed the following tasks for Azure Sentinel:
-  - Developed and implemented a custom PowerShell script to extract metadata from Windows Event Viewer, forwarding data to a third-party API for geolocation insights.
-  - Configured an Azure Log Analytics Workspace, enabling the ingestion and processing of 1000+ custom logs containing geographic data (Latitude, Longitude, State/Province, and Country).
-  - Enhanced Azure Sentinel functionality by configuring custom fields in Log Analytics Workspace and creating a dynamic workbook displaying global attack data (e.g., RDP Brute Force) on a world map, visualizing attack locations.
-<br><br>
-
 **Fulfillment Center Associate - Seasonal** @ [Amazon](https://www.amazon.com/) _(November 2023 - January 2024)_ <br>
   - Processed and prepared an average of 200+ orders weekly for shipment, consistently meeting and maintaining stringent product quality standards.
 <br><br>
@@ -42,6 +35,12 @@ Served as a Help Desk Technician at **Mastercard TechConnect** remotely
 
 ## ☁️ Virtual internship / Job simulations
 
+**Security Analyst | Self-taught** [Honeypot](https://github.com/zekemanalo/honeypot/blob/main/HONEYPOT%20EXPERIMENT.pdf) _(05/2024)_ <br>
+Performed the following tasks for Azure Sentinel:
+  - Developed and implemented a custom PowerShell script to extract metadata from Windows Event Viewer, forwarding data to a third-party API for geolocation insights.
+  - Configured an Azure Log Analytics Workspace, enabling the ingestion and processing of 1000+ custom logs containing geographic data (Latitude, Longitude, State/Province, and Country).
+  - Enhanced Azure Sentinel functionality by configuring custom fields in Log Analytics Workspace and creating a dynamic workbook displaying global attack data (e.g., RDP Brute Force) on a world map, visualizing attack locations.
+
 **Security Analyst** @ [DATACOM](https://datacom.com/nz/en) _(April 2024)_ <br>
 DATACOM Cybersecurity Job Simulation on Forage   
   - Utilized various Open-Source Intelligence (OSINT) tools and techniques to gather information on APT34 and apply MITRE ATT&CK Framework. [APT34 Task](https://github.com/zekemanalo/phishing/blob/main/APT34_Task.pdf)
@@ -57,6 +56,7 @@ Mastercard Cybersecurity virtual experience program intern on Forage 
 
 ## 🎓📜🔑 Certifications
 
+ - (ISC)² Systems Security Certified Practitioner (SSCP) _(May 2024)_
  - AWS Cloud Technical Essentials _(May 2024)_
  - CompTIA Security+ _(March 2024)_
  - Google Cybersecurity _(February 2024)_
