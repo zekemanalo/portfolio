@@ -20,7 +20,7 @@ _Hi, I'm Zeke! I am driven and passionate about safeguarding people’s security
 <br><br>
 
 **IT Helpdesk Technician / IT Support Specialist - Full Time** @ [Stefanini Group](https://stefanini.com/en) _(June 2020 - August 2023)_ <br>
-Served as a Help Desk Technician at **Mastercard TechConnect** remotely
+Served as a Helpdesk Technician at **Mastercard TechConnect** remotely
   - Consistently resolved software issues for 900+ clients each month, maintaining a two-hour turnaround time for Help Desk tickets.
   - Assessed client needs in order to provide relevant service solutions or ownership opportunities
   - Maintained detailed ticket documentation and follow-up for system troubleshoot and configurations​.
